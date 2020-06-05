@@ -1,0 +1,14 @@
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\bin\Debug\DZ_ListBox_TreeView_FINDER.exe.config
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\bin\Debug\DZ_ListBox_TreeView_FINDER.exe
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\bin\Debug\DZ_ListBox_TreeView_FINDER.pdb
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\DZ_ListBox_TreeView_FINDER.csprojAssemblyReference.cache
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\MainWindow.g.cs
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\App.g.cs
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\DZ_ListBox_TreeView_FINDER_MarkupCompile.cache
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\DZ_ListBox_TreeView_FINDER_MarkupCompile.lref
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\MainWindow.baml
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\DZ_ListBox_TreeView_FINDER.g.resources
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\DZ_ListBox_TreeView_FINDER.Properties.Resources.resources
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\DZ_ListBox_TreeView_FINDER.csproj.GenerateResource.cache
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\DZ_ListBox_TreeView_FINDER.exe
+C:\Users\Tanuha\Desktop\WPF_C#\DZ_ListBox_TreeView_FINDER\obj\Debug\DZ_ListBox_TreeView_FINDER.pdb
